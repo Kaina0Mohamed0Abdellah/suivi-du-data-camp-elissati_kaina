@@ -21,4 +21,3 @@ Sélection des variables : farward backward stepwise correlation
 scaling : normalisation, standardisation
 Réduction des dimenssions: ACP
 
-Semaine 3
