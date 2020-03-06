@@ -22,14 +22,14 @@
 - Commencer la rédaction du rapport
 
 ## Semaine 3
-Imputaion des valeurs manquantes par KNN:
-Step1: Subsets the object's data types(all) into another container
-Step2: Change np.NaN into an object data type, say None. Now, the container is made up of only objects data types
-Step3: Change the entire container into categorical datasets
-Step4: Encode the data set(i am using .cat.codes)
-Step5: Change back the value of encoded None into np.NaN
-Step6: Use KNN (from fancyimpute) to impute the missing values
-Step7: Re-map the encoded dataset to its initial names
+- Imputaion des valeurs manquantes par KNN:
+* Step1: Subsets the object's data types(all) into another container
+* Step2: Change np.NaN into an object data type, say None. Now, the container is made up of only objects data types
+* Step3: Change the entire container into categorical datasets
+* Step4: Encode the data set(i am using .cat.codes)
+* Step5: Change back the value of encoded None into np.NaN
+* Step6: Use KNN (from fancyimpute) to impute the missing values
+* Step7: Re-map the encoded dataset to its initial names
 
 ## L'objective de la semaine prochaine:
 - Data exploration et visualisation
