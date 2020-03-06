@@ -44,9 +44,10 @@
 
 ## L'objective de la semaine prochaine:
 - Split
-- Implémentation LGBM without ACP
+- Implémentation LGBM without ACP et submission 
 - XGboost
 
 ## Semaine 4
-- Implémentation lgbm sur la base mean_mode et LGBM sur la base KNN 
+- Implémentation lgbm sur la base mean_mode et LGBM sur la base KNN
+- Implémentation lgbm avec hyper parametres sur la base mean_mode et LGBM sur la base KNN 
 - Implémentation XGboost pour les mêmes bases 
