@@ -1,13 +1,13 @@
 ## Semaine 1:
-Importation du jeu de données
-Description des données pour avoir des idées sur la structure et détecter les failles de notre jeu de données
-Début de traitement des valeurs manquantes dans les dataframe
-Concaténer identity et transaction, puis faire extraire la variable cible et variables explicatives.
+- Importation du jeu de données
+- Description des données pour avoir des idées sur la structure et détecter les failles de notre jeu de données
+- Début de traitement des valeurs manquantes dans les dataframe
+- Concaténer identity et transaction, puis faire extraire la variable cible et variables explicatives.
 
 ## L'objective de la semaine prochaine:
-Réduction de la mémoire(kaoutar)
-Traitement des valeur manquantes (Mohamed)
-Codage des variables nominatives
+- Réduction de la mémoire(kaoutar)
+- Traitement des valeur manquantes (Mohamed)
+- Codage des variables nominatives
 
 ## Semaine 2:
 - D'apès la visualisation de nos données on remarque que 97,19% des transaction sont non frauduleuses et juste 2,81% des transactions frauduleuses alors si on utilise cette base de données pour nos études avec les modèles prédictifs nous allons obtenir énormement d'erreurs.
