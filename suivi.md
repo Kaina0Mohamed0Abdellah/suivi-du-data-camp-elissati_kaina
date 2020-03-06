@@ -18,7 +18,7 @@
  - On a fait mapping et aggregation de E-mail et P-mail
 
 ## L'objective de la semaine prochaine:
-- Imputaion des valeurs manquantes par KNN 
+- Imputaion des valeurs manquantes par KNN (on a fait Scaling pour implémenter KNN)
 - Commencer la rédaction du rapport
 
 ## Semaine 3
@@ -34,13 +34,13 @@
 ## L'objective de la semaine prochaine:
 - Data exploration et visualisation
 - Décodage des données qualitatives
-- Etude de corrélation pour les variables imputées 
+- Etude de corrélation  
  - Continuer la rédaction du rapport 
  
 ## Semaine 4
-- Data exploration et visualisation: estimation des distributions des variables continues pour isfraud = 0 et y 001, et réalisation de statistique bivariés
-- Décodage des données qualitatives: transformation qualitatives en des variables binaire en eevitant la multicolinéarité.
-- Etude de corrélation entre les variables de la base imputée par KNN et celle imputée par mode-mean
+- Data exploration et visualisation: estimation des distributions (à noyaux) des variables continues pour isfraud = 0 et isFraud=1, et la réalisation de statistique bivariés
+- Décodage des données qualitatives: transformation qualitatives en des variables binaire en évitant la multicolinéarité.
+- Etude de corrélation entre les variables de la base imputée par KNN et celles imputée par mode-mean
 
 ## L'objective de la semaine prochaine:
 - Split
@@ -48,5 +48,5 @@
 - XGboost
 
 ## Semaine 4
-- Implémentation lgbm sur la base mean_mode et LGBM sur la base KNN 
+- Implémentation LGBM sur la base mean_mode et LGBM sur la base KNN 
 - Implémentation XGboost pour les mêmes bases 
